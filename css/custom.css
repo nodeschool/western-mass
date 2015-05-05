@@ -62,8 +62,8 @@ header .row { z-index: 2; position: relative; }
 .logo { font-family: 'Droid Sans Mono';}
 
 .site-header {
-  background-position: 52% -150px;
-  background-image: url("../img/berlinbg.jpg");
+  background-position: 52% -250px;
+  background-image: url("../img/holyoke.jpg");
 }
 
 #subheadline, #subheadline a {
