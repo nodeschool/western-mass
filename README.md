@@ -1,7 +1,11 @@
 [Western Mass Nodeschool](nodeschool.io/western-mass)
 ====================
 
-NodeSchool International Day is coming up on Saturday, May 23 at the [Mass Green High Performance Computing Center](http://www.mghpcc.org). Before the workshop, please install [Node.js](https://nodejs.org/) and [git](http://www.git-scm.com/downloads) so you're ready ready to go on Saturday morning.
+NodeSchool International Day is coming up on Saturday, May 23 at the [Mass Green High Performance Computing Center](http://www.mghpcc.org). Before the workshop, please install [Node.js](https://nodejs.org/) and test it with 
+```
+npm install -g learnyounode
+```
+so you're ready ready to go on Saturday morning.
 
 Childcare is still available. Please <a href="mailto:andrew@elytra.net">let us know</a> if you would like to bring along any kids. 
 
