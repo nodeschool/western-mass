@@ -1,4 +1,4 @@
-[Western Mass Nodeschool](nodeschool.io/western-mass)
+[Western Mass Nodeschool](http://nodeschool.io/western-mass)
 ====================
 
 NodeSchool International Day is coming up on Saturday, May 23 at the [Mass Green High Performance Computing Center](http://www.mghpcc.org). Before the workshop:
