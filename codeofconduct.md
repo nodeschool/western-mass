@@ -4,8 +4,6 @@ All attendees, speakers, sponsors and trainers at NodeSchool Western Mass are re
 with the following code of conduct. Organizers will enforce this code throughout the event. 
 We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
 
-*tl:dr: Do not harass people. Be awesome to each other.*
-
 ## Need Help? Contact Finn
 
 Contact | Sequoia McDowell
@@ -45,4 +43,4 @@ We value your attendance.
 
 We expect participants to follow these rules at the event and related social events.
 
-This Code of Conduct was adapted from the [JS Conf.eu Code of Conduct]( http://2014.jsconf.eu/code-of-conduct.html).
+This Code of Conduct was adapted from the [NodeSchool Berlin Code of Conduct](https://github.com/nodeschool/berlin/blob/master/codeofconduct.md) which was adapted from the [JS Conf.eu Code of Conduct]( http://2014.jsconf.eu/code-of-conduct.html).
