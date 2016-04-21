@@ -74,8 +74,13 @@ header .row { z-index: 2; position: relative; }
 .logo { font-family: 'Droid Sans Mono';}
 
 .site-header {
-  background-position: 52% -250px;
+  /*background-position:20% -300px;*/
   background-image: url("../img/mghpcc.jpg");
+}
+@media screen and (min-width: 468px) {
+.site-header {
+  background-position:20% -430px;
+}
 }
 
 #subheadline, #subheadline a {
@@ -123,6 +128,9 @@ header .row { z-index: 2; position: relative; }
 }
 
 @media screen and (max-width: 468px) {
+  .site-header {
+    /*background-position: 52% 0;*/
+  }
   .logo {
     font-size: 50px;
   }
